@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @layer components {
     .tabs-icon {
         @apply size-12 items-center justify-center;
